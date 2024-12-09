@@ -6,4 +6,14 @@ Revisão Bibliográfica:
     - Effect of Shielded Metal Arc Welding (SMAW): https://tafpublications.com/gip_content/paper/Jater-5.5.1.pdf
     - SMAW Advantages and Disadvantages: https://blog.weldingclassroom.com/index.php/welding-info/smaw/smaw-advantages-and-disadvantages/
     - Shielded Metal Arc Welding (SMAW): https://www.substech.com/dokuwiki/doku.php?id=shielded_metal_arc_welding_smaw
-    
+
+    - Submerged-Arc Welding: https://books.google.pt/books?hl=en&lr=&id=jPvJCgAAQBAJ&oi=fnd&pg=PP1&dq=SAW+welding&ots=h8IWF47NBn&sig=YhGEQ1-pYnN4rpH48GI2E56D1pk&redir_esc=y#v=onepage&q=SAW%20welding&f=false
+    - Advantages and Disadvantages of Submerged Arc Welding: https://www.motofil.com/en/article/63/arc-welding-advantages-disadvantages/
+    - Submerged Arc Welding: https://www.weldingandndt.com/saw-submerged-arc-welding/
+
+    - The Parameters and Equipments Used in TIG Welding: https://d1wqtxts1xzle7.cloudfront.net/36989575/C042011020-libre.pdf?1426493405=&response-content-disposition=inline%3B+filename%3DThe_Parameters_and_Equipments_Used_in_TI.pdf&Expires=1733772638&Signature=bxc2ofTx-tvn9TrGGa5w924cioy0~u-aEENnldSUxGSGWULqRoqha4OtzGts2lBf0c~O4-Nroc3RjkwQlibmKlzioTBBxEf1sreVnQroQ8UAvckPcCtBn3Bn0-cVGLGqP-h~ng18CsuRgdMoxZ-cY2dHmPf~8a2UMrB6hwHzO-SxPMxHMVUDunKsYhQp1MR4BOfc2YLnYHQuZGNyopnv-29RvWtzaTbwwernmjuOct2P5rs8iqED5q8bYJ9u85~WSSL903yoR6dNOwSMKYRmrW3IKiv4eGl6GHt78D6Ck8s6pKOyRoQjCHGN12XHZjfrx2O5O-T6Vq0FneGkRBys7Q__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+    - 5 advantages and disadvantages of TIG welding: https://norsemensafety.co.uk/5-advantages-and-disadvantages-of-tig-welding/?srsltid=AfmBOop9wP26mNoiOwuHgqQa5VvlzqIqR8Dh9-rErn_7nn_dUVQmifTI
+    - TIG & MIG Hybrid Welded Steel Joint: https://www.researchgate.net/publication/351010664_TIG_MIG_Hybrid_Welded_Steel_Joint_A_Review#pf3
+
+    - Analysis of fatigue-related aspects of FCAW and GMAW butt-welded joints in a structural steel: https://link.springer.com/article/10.1007/s40430-019-2142-8
+    - Understanding the Key Differences in FCAW and GMAW Welding Techniques: https://www.arccaptain.com/blogs/article/fcaw-vs-gmaw

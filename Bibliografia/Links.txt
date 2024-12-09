@@ -17,3 +17,5 @@ Revisão Bibliográfica:
 
     - Analysis of fatigue-related aspects of FCAW and GMAW butt-welded joints in a structural steel: https://link.springer.com/article/10.1007/s40430-019-2142-8
     - Understanding the Key Differences in FCAW and GMAW Welding Techniques: https://www.arccaptain.com/blogs/article/fcaw-vs-gmaw
+    - Residual stresses in cold-wire gas metal arc welding: https://www.researchgate.net/publication/314104309_Residual_stresses_in_cold-wire_gas_metal_arc_welding#pf2
+    - FCAW (Flux Core Arc Welding): https://www.weldingis.com/fcaw-welding/
